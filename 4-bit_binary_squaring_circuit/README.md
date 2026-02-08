@@ -84,6 +84,10 @@ Circuit diagrams, hardware setup images, and output verification results are inc
 
 ---
 
+SHOWCASE [LINKDIN LINK] : https://www.linkedin.com/posts/arya-biswas-3b5538326_project-showcase-4-bit-binary-squaring-activity-7374059248579899392-ExLx?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFJOBzkB1OS_0z6uNKHKiEyGneOP1yyTJMA
+
+--- 
+
 ## 🔗 Author  
 **Arya Biswas**  
 B.Tech Student | Electronics Engineering  
