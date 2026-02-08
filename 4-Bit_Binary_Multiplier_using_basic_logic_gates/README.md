@@ -62,11 +62,11 @@ Circuit diagrams, breadboard implementation images, and testing results are incl
 <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/f5f59f3f-de9d-4d04-a49c-3f2559f47510" />
 <img width="1762" height="1158" alt="image" src="https://github.com/user-attachments/assets/d1c3f9d1-91b9-4d10-9dce-b0e665842d2f" />
 
-
----
-SHOWCASE [LINKEDIN] : https://www.linkedin.com/posts/arya-biswas-3b5538326_project-title-4-bit-binary-multiplier-activity-7383038340675280896-9JZV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFJOBzkB1OS_0z6uNKHKiEyGneOP1yyTJMA
 ---
 
+SHOWCASE [LINKEDIN LINK] : https://www.linkedin.com/posts/arya-biswas-3b5538326_project-title-4-bit-binary-multiplier-activity-7383038340675280896-9JZV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFJOBzkB1OS_0z6uNKHKiEyGneOP1yyTJMA
+
+---
 ## 🔗 Author  
 **Arya Biswas**  
 B.Tech Student | Electronics Engineering  
