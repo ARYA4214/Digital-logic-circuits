@@ -68,7 +68,12 @@ Y7 = A3 · A2
 Circuit diagrams, hardware setup images, and output verification results are included in this repository for clear understanding of the implementation.
 
 ---
+
 <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/5c4e420e-447b-4839-a124-d864667f14b2" />
+<img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/abda4357-4a8f-45c9-92c8-189b271f174b" />
+<img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/9be321a3-942a-4fd6-a387-7791563c2fe0" />
+<img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/b5019716-9705-4b12-aa58-b2da04f439e3" />
+
 ---
 
 ## 🧠 Learning Outcomes  
