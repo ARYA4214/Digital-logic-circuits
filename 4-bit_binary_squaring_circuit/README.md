@@ -68,6 +68,8 @@ Y7 = A3 · A2
 Circuit diagrams, hardware setup images, and output verification results are included in this repository for clear understanding of the implementation.
 
 ---
+<img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/5c4e420e-447b-4839-a124-d864667f14b2" />
+---
 
 ## 🧠 Learning Outcomes  
 - Practical knowledge of **combinational circuit design**  
